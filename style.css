@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.main{
+    background-color: lightblue;
+}
+.bg{
+    margin-bottom: 2.3rem;
+}
+h1{
+ font-size: 3rem;
+}
+.dark{
+    color: black;
+}
+.main1{
+    margin-top: 20px;
+    font-style: italic;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.bottom{
+    margin-bottom: 30px;
+}
